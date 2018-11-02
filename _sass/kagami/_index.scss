@@ -1,0 +1,87 @@
+
+.wrapper {
+  display: flex;  
+  flex-flow: row wrap;
+}
+
+.info_column-1 {
+  display: flex;
+  flex-flow: column;
+  text-align: left;  
+}
+
+.info_column-2 {
+  display: flex;
+  flex-flow: column;
+  text-align: left;  
+}
+
+.wrapper > * {
+  padding: 10px;
+  flex: 1 100%; /* flex-basis argument of 100% pushes all RH items out of row */
+}
+
+.navbar{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar_item {
+  float: none;
+  display: inline;
+  font-variant-caps: all-petite-caps;
+}
+
+.navbar_link {
+  padding: 6px;
+}
+
+.issue-list{
+    list-style-type: disc;
+}
+
+.issue-list-item {
+  padding-bottom: 20px
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+@media all and (min-width: 600px) {
+  .masthead_borderlands {
+    font-weight: normal;
+    font-size:50px;
+  }
+  .masthead_tpr {
+    font-weight: normal;
+    font-size:25px;
+  }
+
+.front-site-title, .front-site-title:hover, .front-site-title:visited {
+    display: inline-block;
+    font-variant-caps: all-petite-caps;
+    font-size: 2.0em;
+    @include font-serif;
+    border-bottom: none;
+    white-space: wrap;
+    text-align: center
+  }
+
+  .site-title, .site-title:hover, .site-title:visited {
+    display: inline-block;
+    font-size: 1.5em;
+    @include font-serif;
+    border-bottom: none;
+    white-space: wrap;
+    text-align: right
+  }
+
+  div.info_column-1 { flex: 1 40%; }  /* both columns share row, overrides 100% pushyness*/
+  div.info_column-2 { flex: 1 50%; }  /* both columns share row, overrides 100% pushyness*/
+  div.mobile-menu { display: none; }  /* hide mobile menu on wide screen */
+  hr.mobile-menu { display: none; }   /* hide mobile horizontal rule lines on wide screen */
+
+}

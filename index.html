@@ -1,0 +1,71 @@
+---
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+  	<link rel="stylesheet" href="/assets/css/core.css">
+  	<meta name="viewport" content="width=device-width">
+    <meta name="viewport" content="initial-scale=1.0">
+</head>
+<body>
+
+<div class="wrapper">
+	
+	<div class="mobile-menu" id="mobile-menu" >	{% include nav.html %}</div>
+
+	<a class="front-site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+	<div class="info_column-1">
+	  	<center><img src="assets/images/issue48/B_48.jpg" width=300 ></center>
+	  	<article>Issue 48</article>
+	  	<article><font size="1">"Traditional Comanche Woman" by Eric Tippeconic &copy; 2018</font></article>
+		<article>
+			<hr>
+			{% include paypal_subscription_form.html %}
+			<hr class="mobile-menu">
+		</article>
+	  </div>
+
+	  <div class="info_column-2">
+	  	<article>
+	    	<i>Borderlands: Texas Poetry Review</i> is a literary journal based in Austin, Texas that publishes poetry along with photographs, reviews and essays. 
+	    	<hr> 
+	  	</article>
+
+	  	{% assign curDate = site.time | date: '%s' %}
+		{% for event in site.events %}
+    		{% assign postStartDate = event.date | date: '%s' %}
+    		{% if postStartDate >= curDate %}
+	  		<article>
+	  			<h1>{{ event.title }}</h1>
+	  			<p>{{ event.event_date }}</p>
+  				<p>{{ event.content | markdownify }}</p>
+  			</article>    		
+  			{% endif %}
+		{% endfor %}
+	  	
+	  	<article>    
+	  	<center><a class="site-title" href="/submissions"><img src="assets/images/call_for_entries.jpg"></a></center>
+			<p>Submit your work for publication in the upcoming issue. Since its debut in 1992, Borderlands continues to receive wide critical acclaim and garners a national readership.</p>
+		</article>
+	  </div>
+
+
+
+  <article>
+    <hr>
+    <center><img src="assets/images/coa.jpg" align="center" style="max-width:200px;">
+    <p><i>Borderlands</i> is supported in part by the Cultural Arts Division of the City of Austin Economic Development Department.</p></center>  
+    <hr>
+  </article>
+
+<div>{% include nav.html %}</div>
+  
+</div>
+
+
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+{% include mobile-menu.html color="#777777" width="757" %}
+</body>
+
+</html>

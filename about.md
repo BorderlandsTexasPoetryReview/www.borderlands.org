@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+*Borderlands: Texas Poetry Review* is a literary journal based in Austin, Texas that publishes poetry along with photographs, reviews and essays.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Our four-color cover features the work of area artists. The journal's mission is to publish work of merit that shows an awareness of connection -- historical, social, political and spiritual. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Borderlands is a national publication with a special interest in supporting Texas and other southwestern poets and artists through publication and public readings. The journal is funded in part by the City of Austin Cultural Funding Program and the Texas Commission on the Arts. 
 
-
-[jekyll-organization]: https://github.com/jekyll
+* [History](../history)
+* [Board of Directors](../board)
+* [Staff](../staff)

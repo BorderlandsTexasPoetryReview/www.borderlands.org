@@ -1,0 +1,48 @@
+---
+layout: page
+---
+
+<ul class="issue-list">
+  {% for rule in page.filter %}
+  {% assign issues = site.issues %}
+  {% if rule.by_tag %}
+  {% assign issues = issues | where_exp: "issue", "issue.tags contains rule.by_tag" %}
+  {% endif %}
+  {% if rule.by_category %}
+  {% assign issues = issues | where_exp: "issue", "issue.category == rule.by_category" %}
+  {% endif %}
+  {% if rule.by_expression %}
+  {% assign issues = issues | where_exp: "issue", rule.by_expression %}
+  {% endif %}
+  {% for issue in issues %}
+  {% assign issues = issues | append: " " | append: issue.path %}
+  {% endfor %}
+  {% endfor %}
+  {% if issues %}
+  {% assign issues = issues | split: " " | sort | uniq %}
+  {% assign issues = site.issues | where_exp: "issue", "issues contains issue.path" %}
+  {% else %}
+  {% assign issues = site.issues %}
+  {% endif %}
+  {% assign issues = issues | reverse %}
+  {% for issue in issues offset:2 %}
+  <li class="issue-list-item" data-tags="{{ issue.tags | join: " " }}">
+      
+      <!-- <a href="{{ issue.url }}" ><img src="/assets/images/issue{{issue.issue_number}}/B_{{ issue.issue_number }}.jpg" height="310" width="200"/> -->
+      <a class="issue-item-link" href="{{ issue.url | relative_url }}" data-date="{{ issue.date | date: "%m-%d"  }}">
+      {{ issue.title | escape }}
+      </a>
+    
+
+    {% if issue.description %}
+    <p class="issue-description">{{ issue.description }}</p>
+    {% endif %}
+    <div class="issue-item-meta">
+      {{ issue.date | date: "%B %-d, %Y" }}
+      
+    </div>
+  </li>
+  {% endfor %}
+</ul>
+
+

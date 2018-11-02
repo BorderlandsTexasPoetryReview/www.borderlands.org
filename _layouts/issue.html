@@ -1,0 +1,31 @@
+---
+layout: blank
+---
+
+<link rel="stylesheet" href="/assets/css/core.css">
+
+<body>
+
+<div class="wrapper">
+	
+	<div class="mobile-menu" id="mobile-menu" >	{% include site-nav.html %}</div>
+
+	<a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+
+	<div class="info_column-1">
+	  	
+	  	<article><center><img src="/assets/images/issue{{page.issue_number}}/B_{{ page.issue_number }}.jpg" width=300 ></center><article>
+	  	<article>Issue {{ page.issue_number }}</article>
+	  	<article><font size="1">{{ page.image_caption }}</font><hr class="mobile-menu"></article>
+	</div>
+
+	<div class="info_column-2">
+	  	<article>
+	    	{{ content }}
+	  	</article>  	
+	</div>
+
+	{% include nav.html %}  
+</div>
+
+</body>
