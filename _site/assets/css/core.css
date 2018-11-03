@@ -251,18 +251,6 @@ article h1 + *, article h1 + .aside + *, article h1 + .sidenote + *, article h2 
   line-height: 1.6;
   font-family: "Crimson Text", serif, "Kagami Emoji"; }
 
-[lang^="zh-Hans"] {
-  line-height: 1.8;
-  font-family: "Crimson Text", "Kagami SC", sans-serif, "Kagami Emoji"; }
-
-[lang^="zh-Hant"] {
-  line-height: 1.8;
-  font-family: "Crimson Text", "Kagami TC", sans-serif, "Kagami Emoji"; }
-
-[lang^="ja"] {
-  line-height: 1.8;
-  font-family: "Crimson Text", "YuMincho", sans-serif, "Kagami Emoji"; }
-
 body {
   color: #3c3c3c;
   font-size: 18px;
@@ -527,6 +515,15 @@ img {
   max-width: 100%;
   height: auto; }
 
+.front-site-title, .front-site-title:hover, .front-site-title:visited {
+  display: inline-block;
+  font-variant-caps: all-petite-caps;
+  font-size: 1em;
+  font-family: "Crimson Text", serif, "Kagami Emoji";
+  border-bottom: none;
+  white-space: wrap;
+  text-align: left; }
+
 @media all and (min-width: 600px) {
   .masthead_borderlands {
     font-weight: normal;
@@ -558,7 +555,7 @@ img {
 
   /* both columns share row, overrides 100% pushyness*/
   div.info_column-2 {
-    flex: 1 50%; }
+    flex: 1 55%; }
 
   /* both columns share row, overrides 100% pushyness*/
   div.mobile-menu {

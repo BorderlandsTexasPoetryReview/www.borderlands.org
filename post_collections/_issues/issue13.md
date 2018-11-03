@@ -8,18 +8,17 @@ image_caption:
 
 ## Poetry:
 
-V.T. Abercrombie, Usha Akella, Jeffrey C. Alfier, Samuel Arizpe, Devreaux Baker, Robert Bense, Eric Blanchard, Nona Blanchard, Joe Blanda, Michael Conner, Nick Conrad, Dale Cottingham, Mary Dallas, Rebecca Dunham, Keith Dunlap, Regina Faunes, Holly Guran, Jean C. Howard, Ann Howells, Glynn Monroe Irby, Kateri Kosek, Diane D. McGurren, David Meischen, Donna Marie Miller, William Miller, Margaret S. Mullins, B. Z. Niditch, Simon Perchik, Zara Raab, Geri Rosenzweig, Shubh Bala Schiesser, Steven Schroeder, Anthony Seidman, Jean-Mark Sens, Kelsey Erin Shipman, Michael G. Smith, Alison Strub, Marcela Sulak, Chuck Taylor, O. Howard Winn  
+V. T. Abercrombie, Susan J. Allspaw, Oliver de la Paz, Nancy Depper, Sonya S. Feher, Lisa Grable, Kathleen Gray, Kurt Heinzelman, W. Joe Hoppe, Melissa Johnson, Patricia A. Johnson, Jeff Knight, Anastasia McFadyen, Nicole Naiditch, L. L. Ollivier; Susan Atefat Peckham, Dean Rader; Carol Coffee Reposa; James Michael Robbins, Richard Robbins, Renato Rosaldo, Paul B. Roth, Lupe Ruiz-Flores, David Salner, Reza Shirazi, Kathryn Stevens, Belinda Subraman, Mario Susko, Ryan G. Van Cleave, Carl A. Wertman, Ginny Wiehardt, Scott Wiggerman, Sarah Wolbach, Fredrick Zydek  
 
-## Reviews:
+## Review:
+Mario Susko, *Versus Exsul*, 1998  
 
-Marcela Sulak, *Immigrant*  
-Larry Thomas, *The Skin of Light*  
-David Wevill, *To Build My Shadow a Fire*   
+## Interview:
 
-## Photography:
+John Rodden with translator John Nathan on Kenzaburō Ōe, the 1994 Nobel Prize winner
 
-Jim Nix  
+## Artwork:
+Luis Gutierrez  
 
-## Cover Photograph:
-
-*The Secret Door in Santa Fe*, Jim Nix  
+## Photographs:
+Mark Goodman  

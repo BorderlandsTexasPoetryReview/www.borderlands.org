@@ -3,7 +3,7 @@ layout: issue
 category: issue
 title: Issue 48
 issue_number: 48
-image_caption: Traditional Comanche Woman by Eric Tippeconic 2018
+image_caption: Traditional Comanche Woman by Eric Tippeconic &copy;2018
 ---
 
 ## Poetry:
@@ -18,4 +18,4 @@ James Diaz  *This Someone I Call Stranger*
 Stacey Waite  *Butch Geography*
 
 ## Cover Art:
-Traditional Comanche Woman by Eric Tippeconic © 2018
+Traditional Comanche Woman by Eric Tippeconic &copy;2018

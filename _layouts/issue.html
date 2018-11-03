@@ -4,6 +4,9 @@ layout: blank
 
 <link rel="stylesheet" href="/assets/css/core.css">
 
+<meta name="viewport" content="width=device-width">
+<meta name="viewport" content="initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 <body>
 
 <div class="wrapper">
@@ -14,13 +17,19 @@ layout: blank
 
 	<div class="info_column-1">
 	  	
-	  	<article><center><img src="/assets/images/issue{{page.issue_number}}/B_{{ page.issue_number }}.jpg" width=300 ></center><article>
-	  	<article>Issue {{ page.issue_number }}</article>
+	  	<article><center><img style="margin-bottom:5px;" src="/assets/images/issue{{page.issue_number}}/B_{{ page.issue_number }}.jpg" width=300 ></center>
 	  	<article><font size="1">{{ page.image_caption }}</font><hr class="mobile-menu"></article>
+
+	  	<article style="margin-top:20px;" ><center>
+	  		<a style="border-bottom: 0px;" href="{{page.previous.url}}">&nbsp;&nbsp;<&nbsp;&nbsp;</a>
+	  		Issue {{ page.issue_number }}
+	  		<a style="border-bottom: 0px;" href="{{page.next.url}}">&nbsp;&nbsp;>&nbsp;&nbsp;</a>
+	  		</center>
+	  		</article>
 	</div>
 
 	<div class="info_column-2">
-	  	<article>
+	  	<article class="page" lang="en">
 	    	{{ content }}
 	  	</article>  	
 	</div>

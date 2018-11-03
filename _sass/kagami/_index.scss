@@ -50,6 +50,16 @@ img {
     height: auto;
 }
 
+.front-site-title, .front-site-title:hover, .front-site-title:visited {
+    display: inline-block;
+    font-variant-caps: all-petite-caps;
+    font-size: 1em;
+    @include font-serif;
+    border-bottom: none;
+    white-space: wrap;
+    text-align: left
+  }
+
 @media all and (min-width: 600px) {
   .masthead_borderlands {
     font-weight: normal;
@@ -80,7 +90,7 @@ img {
   }
 
   div.info_column-1 { flex: 1 40%; }  /* both columns share row, overrides 100% pushyness*/
-  div.info_column-2 { flex: 1 50%; }  /* both columns share row, overrides 100% pushyness*/
+  div.info_column-2 { flex: 1 55%; }  /* both columns share row, overrides 100% pushyness*/
   div.mobile-menu { display: none; }  /* hide mobile menu on wide screen */
   hr.mobile-menu { display: none; }   /* hide mobile horizontal rule lines on wide screen */
 

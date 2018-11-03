@@ -25,7 +25,7 @@ layout: page
   {% assign issues = site.issues %}
   {% endif %}
   {% assign issues = issues | reverse %}
-  {% for issue in issues offset:2 %}
+  {% for issue in issues offset:1 %}
   <li class="issue-list-item" data-tags="{{ issue.tags | join: " " }}">
       
       <!-- <a href="{{ issue.url }}" ><img src="/assets/images/issue{{issue.issue_number}}/B_{{ issue.issue_number }}.jpg" height="310" width="200"/> -->
