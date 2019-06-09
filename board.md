@@ -4,12 +4,14 @@ title: Board Members
 permalink: /board/
 ---
 
-We've come a long way since the first "unofficial" board meeting in 1991. When we started out wanting beautiful poems that lifted the human spirit, we had no idea that running a journal was a full-time occupation.
+We've come a long way since the first unofficial board meeting in 1991. When we started out wanting beautiful poems that lifted the human spirit, we had no idea that running a journal was a full-time occupation.
 
-We are an all volunteer staff dedicated to the advancement of poetry and art. Borderlands has received the highest praise from national and local reviewers.
+We are an all volunteer staff dedicated to the advancement of poetry and art. *Borderlands* has received the highest praise from national and local reviewers.
 
-*Borderlands* is funded in part by the City of Austin Cultural Funding Program. Founders include Dorothy Barnett, D'Arcy Randall, Liz Garton Scanlon, Hazel Ward, Lynn Gilbert, Pamela Cook and Alice Batt.
+*Borderlands* is funded in part by the City of Austin Cultural Funding Program. Founders include Dorothy Barnett, D'Arcy Randall, Liz Garton Scanlon, Hazel Ward, Lynn Gilbert, Pamela Cook and Alice Batt.  
 
-Board: Deborah A. Akers, Ramona Cearley, Joe Herrera, Amy Schrader
+Appointed art director in 1996, Ramona Cearley served as the journal's first administrative director for 18 years, retiring from her position in 2018.  
 
-Advisory Board: Dorothy Barnett, Liz Garton Scanlon, D'Arcy Randall 
+Board: Deborah A. Akers (Emerita), Ignacio Carvajal, James Gregorski, Allyson Whipple
+
+Advisory Board: Dorothy Barnett, D'Arcy Randall   

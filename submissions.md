@@ -4,12 +4,10 @@ title: Submissions
 permalink: /submissions/
 ---
 
-Borderlands is accepting online submissions via Submittable.  
+Borderlands is accepting online submissions for poetry and reviews via Submittable only.  
 
 [Please click here to proceed to Submittable.](http://borderlands.submittable.com/submit)
 {: style="text-align: center;"}
-
-We have phased out postal submissions.  
 
 * [Poetry](#poetry)
 * [Essays & Book Reviews](#essays_reviews)
@@ -20,18 +18,19 @@ We have phased out postal submissions.
 ## <a name="poetry">Poetry:</a>
 
  
-Simultaneous   Please submit outwardly directed poetry that exhibits social, political, geographical, historical or spiritual awareness. We are open to traditional and experimental forms. Above all, we are interested in great poetry that moves us.
- submissions are welcome, but please notify us if your poem(s) is accepted elsewhere.
+Please submit outwardly directed poetry that exhibits social, political, geographical, historical or spiritual awareness. We are open to traditional and experimental forms. Above all, we are interested in great poetry that moves us.  
 
-We do not accept previously published work.
+Simultaneous submissions are welcome, but please notify us if they are accepted elsewhere.  
 
-Poetry submissions should be typed, single-spaced, and include page numbers. Italicize or underline words to be italicized. Note that bold-faced type cannot be reproduced. With rare exceptions, we do not double-space poems.
+We do not accept previously published work.  
 
-Include a cover letter with your name, address, e-mail address, phone number, and brief (one-paragraph) bio.
+Poetry submissions should be typed, single-spaced, and include page numbers. Italicize or underline words to be italicized. Note that bold-faced type cannot be reproduced. With rare exceptions, we do not double-space poems.  
 
-Submit a maximum of five poems for consideration per issue.
+Include a cover letter with your name, address, e-mail address, phone number, and brief (one-paragraph) bio.  
 
-Payment is one copy. 
+Submit a maximum of five poems for consideration per issue.  
+
+Payment is one copy.  
 
 ---
 
@@ -79,5 +78,5 @@ Mail CD and a self-addressed stamped envelope to:
 
 Borderlands: Texas Poetry Review  
 Attn: Art Director  
-PO Box 33096  
-Austin, TX 78764  
+PO Box 40876  
+Austin, TX 78704  

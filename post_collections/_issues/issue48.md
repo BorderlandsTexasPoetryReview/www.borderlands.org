@@ -7,7 +7,7 @@ image_caption: Traditional Comanche Woman by Eric Tippeconic &copy;2018
 ---
 
 ## Poetry:
-Sara Anderson, Clay Cantrell, Angela H. Dale, Georgia Dennison, Myron Ernst, Robert Evory, Jeremy James George, Michael Favala Goldman, Vive Griffith, Ken Holland, Romana Iorga, Julia Kolchinsky Dasbach, Daniel Lassell, Mark Luebbers and Benjamin Goluboff, Alan Pelaez Lopez, Nicholas Reiner, Peter Sagnella, Richard Spillman, Mark Steudel, Larry D. Thacker, Shana Toor, Amanda Rachelle Warren, Dashaun Washington, Chelsea Whitton  
+Sara Anderson, Clay Cantrell, Angela H. Dale, Georgia Dennison, Myron Ernst, Robert Evory, Jeremy James George, Michael Favala Goldman, Vivé Griffith, Ken Holland, Romana Iorga, Julia Kolchinsky Dasbach, Daniel Lassell, Mark Luebbers and Benjamin Goluboff, Alan Pelaez Lopez, Nicholas Reiner, Peter Sagnella, Richard Spillman, Mark Steudel, Larry D. Thacker, Shana Toor, Amanda Rachelle Warren, Dashaun Washington, Chelsea Whitton  
 
 ## Featured Poet:
 Joe Brundridge

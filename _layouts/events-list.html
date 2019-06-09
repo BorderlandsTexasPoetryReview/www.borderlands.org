@@ -1,0 +1,24 @@
+---
+layout: page
+---
+
+<ul class="post-list">
+ {% assign events = site.events | reverse %}
+ {% for post in events %}
+  <li class="post-list-item" data-tags="{{ post.tags | join: " " }}">
+    <a class="post-item-link" href="{{ post.url | relative_url }}" data-date="{{ post.date | date: "%m-%d"  }}">
+      {{ post.title | escape }}
+    </a>
+    <div class="post-item-meta">
+      {{ post.event_date | date: "%B %-d, %Y" }}
+      
+    </div>
+    {% if post.description %}
+    <p class="post-description">{{ post.description }}</p>
+    {% endif %}
+    {{ post.content }}
+    
+  </li>
+  <hr>
+  {% endfor %}
+</ul>

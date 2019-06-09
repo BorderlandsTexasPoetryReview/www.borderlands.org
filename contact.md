@@ -4,7 +4,8 @@ title: Contact
 permalink: /contact/
 ---
 Administrative and subscription queries:  
-rcearley@hotmail.com  
+Allyson Whipple  
+whipplea@gmail.com  
 
 Editorial inquiries:  
 borderlandspoetry@gmail.com  

@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-*Borderlands: Texas Poetry Review* is a literary journal based in Austin, Texas that publishes poetry along with photographs, reviews and essays.
+*Borderlands: Texas Poetry Review* is a literary journal based in Austin, Texas that publishes poetry along with a visual art series, reviews and essays.
 
 Our four-color cover features the work of area artists. The journal's mission is to publish work of merit that shows an awareness of connection -- historical, social, political and spiritual. 
 

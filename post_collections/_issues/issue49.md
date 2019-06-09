@@ -1,9 +1,9 @@
 ---
 layout: issue
-title: current_issue
+category: issue
+title: Issue 49
 issue_number: 49
 image_caption: <i>Change of Plans</i> &copy;2019 by Alyssa Surabian 
-permalink: /current_issue/
 ---
 
 ## Poetry:

@@ -33,6 +33,8 @@ collections_dir: post_collections
 collections:
   issues:
     output: true
+  events:
+    output: true
 
 sass:
   sass_dir: _sass

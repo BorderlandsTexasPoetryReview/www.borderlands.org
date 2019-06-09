@@ -27,6 +27,7 @@ layout: page
   {% for post in posts %}
   <li class="post-list-item" data-tags="{{ post.tags | join: " " }}">
     <a class="post-item-link" href="{{ post.url | relative_url }}" data-date="{{ post.date | date: "%m-%d"  }}">
+      hello
       {{ post.title | escape }}
     </a>
     {% if post.description %}
