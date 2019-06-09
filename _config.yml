@@ -21,6 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "http://www.borderlands.org"
 github_username:  BorderlandsTexasPoetryReview
 facebook_username: BorderlandsTexasPoetryReview
+include: ['.htaccess']
 
 # Build settings
 markdown: kramdown
@@ -35,6 +36,7 @@ collections:
     output: true
   events:
     output: true
+    future: true
 
 sass:
   sass_dir: _sass
