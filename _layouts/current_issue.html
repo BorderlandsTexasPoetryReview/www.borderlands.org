@@ -1,0 +1,40 @@
+---
+layout: blank
+---
+
+<link rel="stylesheet" href="/assets/css/core.css">
+
+<meta name="viewport" content="width=device-width">
+<meta name="viewport" content="initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<body>
+
+<div class="wrapper">
+	
+	<div class="mobile-menu" id="mobile-menu" >	{% include site-nav.html %}</div>
+
+	<a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+
+	<div class="info_column-1">
+	  	
+	  	<article><center><img style="margin-bottom:5px;" src="/assets/images/issue{{page.issue_number}}/B_{{ page.issue_number }}.jpg" width=300 ></center>
+	  	<article><font size="1">{{ page.image_caption }}</font><hr class="mobile-menu"></article>
+
+	  	<article style="margin-top:20px;" ><center>
+	  		<a style="border-bottom: 0px;" href="/issues/issue{{page.issue_number | minus: 1}}.html">&nbsp;&nbsp;<&nbsp;&nbsp;</a>
+	  		Issue {{ page.issue_number }}
+	  		&nbsp;&nbsp;>
+	  		</center>
+	  		</article>
+	</div>
+
+	<div class="info_column-2">
+	  	<article class="page" lang="en">
+	    	{{ content }}
+	  	</article>  	
+	</div>
+
+	{% include nav.html %}  
+</div>
+
+</body>

@@ -24,3 +24,12 @@ Khadijah Queen, *I\'m So Fine, A List of Famous Men and What I Had On*
 *Night Laundry Study* by Owen Max Dodgen  
 
 Art by Owen Max Dodgen  
+
+## Editor:
+Ryan Sharp  
+
+## Assistant Editors:
+James Gregorski, Sequoia Maner, Daniel Priest  
+
+## Book Review Editor:
+Carol Denson  

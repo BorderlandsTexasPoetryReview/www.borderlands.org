@@ -1,9 +1,9 @@
 ---
-layout: current_issue
-title: current_issue
+layout: issue
+category: issue
+title: Issue 50
 issue_number: 50
 image_caption: <i>Silent Night</i> &copy;2019 by James Surls 
-permalink: /current_issue/
 ---
 
 ## Poetry:

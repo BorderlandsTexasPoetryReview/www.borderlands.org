@@ -21,3 +21,13 @@ Yvonne Higgins Leach, *Another Autumn*
 *At The Beach* by Eli Slaydon  
 Art by Eli Slaydon &copy;2016  
 
+## Editor:
+Ryan Sharp  
+
+## Assistant Editors:
+James Gregorski, Rebecca MacMillan, Sequoia Maner, Daniel Priest  
+
+## Book Review Editor:
+Lauren Gantz    
+
+

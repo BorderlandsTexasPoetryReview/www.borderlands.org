@@ -27,4 +27,14 @@ Noah Baumwoll
 
 Radha by Noah Baumwoll  
 
+## Editor:
+Ryan Sharp  
+
+## Assistant Editors:
+James Gregorski, Daniel Priest  
+
+## Book Review Editor:
+Kelsey Joan Waite  
+
+
 

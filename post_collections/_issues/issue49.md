@@ -7,7 +7,7 @@ image_caption: <i>Change of Plans</i> &copy;2019 by Alyssa Surabian
 ---
 
 ## Poetry:
-Josh Anthony, Chelsea Bayouth, Daniel Biegelson, Jesse Breite, Jody Chan, Rob Cook, Frank Dullaghan, John Fry, Richard Hedderman, Maximilian Heinegg, Barbara E. Hunt, Katelin Kelly, Pingmei Lan, Matthew Lippman, Alice-Yanhong Lu, Josh Martin, Lisa Megraw, Daryl Scroggins, Cheyenne Taylor, Ron Wallace   
+Josh&nbsp;Anthony, Chelsea&nbsp;Bayouth, Daniel&nbsp;Biegelson, Jesse&nbsp;Breite, Jody&nbsp;Chan, Rob&nbsp;Cook, Frank&nbsp;Dullaghan, John&nbsp;Fry, Richard&nbsp;Hedderman, Maximilian&nbsp;Heinegg, Barbara&nbsp;E.&nbsp;Hunt, Katelin&nbsp;Kelly, Pingmei&nbsp;Lan, Matthew&nbsp;Lippman, Alice&#8209;Yanhong&nbsp;Lu, Josh&nbsp;Martin, Lisa&nbsp;Megraw, Daryl&nbsp;Scroggins, Cheyenne&nbsp;Taylor, Ron&nbsp;Wallace   
 
 ## In Memoriam:
 Debra L. Winegarten  
@@ -23,3 +23,15 @@ paulA neves, *Capricornucopia*
 
 ## Cover Art:
 *Change of Plans* &copy;2019 by Alyssa Surabian  
+
+## Managing Editor:
+Ryan Sharp  
+
+## Interim Editor:  
+James Gregorski
+
+## Assistant Editors:
+Sequoia Maner, Daniel Priest  
+
+## Book Review Editor:
+Carol Denson  

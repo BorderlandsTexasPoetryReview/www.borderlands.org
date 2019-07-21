@@ -30,3 +30,13 @@ Rebecca Dietz
 ## Cover Photograph:
 
 *Thrill Seekers* by Rebecca Dietz  
+
+## Editor:
+Ryan Sharp  
+
+## Assistant Editors:
+James Gregorski, Daniel Priest  
+
+## Book Review Editor:
+Kelsey Joan Waite  
+

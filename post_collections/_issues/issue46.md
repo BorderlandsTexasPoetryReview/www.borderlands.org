@@ -25,3 +25,12 @@ Wendy Videlock, *How You Might Approach a Foal*
 *Owl Nighter* by Stephanie Rubiano
 
 Art by Stephanie Rubiano &copy; 2017  
+
+## Editor:
+Ryan Sharp  
+
+## Assistant Editors:
+James Gregorski, Rebecca MacMillan, Sequoia Maner, Daniel Priest  
+
+## Book Review Editor:
+Carol Denson  

@@ -18,4 +18,16 @@ James Diaz  *This Someone I Call Stranger*
 Stacey Waite  *Butch Geography*
 
 ## Cover Art:
-Traditional Comanche Woman by Eric Tippeconic &copy;2018
+Traditional Comanche Woman by Eric Tippeconic &copy;2018  
+
+## Editor:
+Ryan Sharp  
+
+## Assistant Editors:
+Sequoia Maner, Daniel Priest  
+
+## Book Review Editor:
+Carol Denson  
+
+
+

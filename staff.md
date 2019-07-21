@@ -9,7 +9,7 @@ Book Review Editor: Carol Denson
 Assistant Editors: Nori Rose Hubert-Besares, Nia KB, Daniel Priest, Alana Torrez  
 Digital Publisher: Graham Stewart  
 
-Collaborative Programs: Austin International Poetry Festival, Austin Poetry Society, Barnes & Noble Sunset Valley, Blanton Museum of Art, BookWoman, Huston-Tillotson University, La Peña, They Speak Youth Project, Westwood Creative Writing Program and Writers’ League of Texas  
+Collaborative Programs: Austin International Poetry Festival, Austin Poetry Society, Barnes & Noble Sunset Valley, Blanton Museum of Art, BookWoman, Huston-Tillotson University, La Peña, They Speak Youth Project, Westwood Creative Writing Program and Writers’ League of Texas, UMLAUF Sculpture Garden & Museum  
 
 If you are interested in volunteer work with the journal, please contact us at:  
 
