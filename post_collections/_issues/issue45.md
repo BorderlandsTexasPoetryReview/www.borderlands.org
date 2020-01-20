@@ -3,7 +3,7 @@ layout: issue
 category: issue
 title: Issue 45
 issue_number: 45
-image_caption: 
+image_caption: <i>At The Beach</i> by Eli Slaydon
 ---
 
 ## Poetry:

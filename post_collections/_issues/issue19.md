@@ -3,7 +3,7 @@ layout: issue
 category: issue
 title: Issue 19
 issue_number: 19
-image_caption: 
+image_caption: <i>Navajo Girl and Sign</i> by Bill Wright
 ---
 
 ## Poetry:
@@ -19,3 +19,6 @@ Bill Wright
 
 ## Art:
 Matthew Polhamus  
+
+## Editors:
+k. bradford, Amy Schrader  

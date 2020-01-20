@@ -12,6 +12,6 @@ We are an all volunteer staff dedicated to the advancement of poetry and art. *B
 
 Appointed art director in 1996, Ramona Cearley served as the journal's first administrative director for 18 years, retiring from her position in 2018.  
 
-Board: Deborah A. Akers (Emerita), Ignacio Carvajal, James Gregorski, Allyson Whipple
+Board: Deborah A. Akers (Emerita), Dr. Ignacio Carvajal, Cindy Huyser, Maggie Ilersich, Dr. Patrick Walter
 
 Advisory Board: Dorothy Barnett, D'Arcy Randall   

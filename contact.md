@@ -13,6 +13,8 @@ borderlandspoetry@gmail.com
 Submissions:  
 https://borderlands.submittable.com/submit  
 
+Website:  
+borderlands.poetry.website@gmail.com  
 
 Mailing address:
 

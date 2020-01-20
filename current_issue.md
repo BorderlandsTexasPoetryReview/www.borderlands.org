@@ -24,8 +24,8 @@ Dean Rader, *Self-Portrait as Wikipedia Entry*
 ## Cover Art:
 *Silent Night* &copy;2019 by James Surls  
 
-## Managing Editor:
-Faylita Hicks  
+## Managing Editors:
+Faylita Hicks, Ryan Sharp    
 
 ## Interim Editor:  
 James Gregorski  

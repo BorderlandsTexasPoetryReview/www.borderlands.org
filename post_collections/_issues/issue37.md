@@ -3,15 +3,13 @@ layout: issue
 category: issue
 title: Issue 37
 issue_number: 37
-image_caption: 
+image_caption: <i>Grace During the Storm</i> by Marilyn Flanegan
 ---
 
 ## Poetry:
-
-Chad Bennet, Bruce Bond, Douglas G. Campbell, Michael Casey, Cyrus Cassells, Brian Clements, Barbara Crooker, Carolina Ebeid, Shamala Gallagher, Sonia Greenfield, Danielle Hanson, Kurt Heinzelman, Michael Helsem, Brenda Hillman, Judy Jensen, Sarah Katharina Kayss, Len Krisak, Errol Miller, Mark Mullee, Benjamin Myers, Mary Parham, Simon Perchik, Jeffrey Pethybridge, Dean Rader, Marzelle Robertson, Dale Smith, Bruce Snider, Meg Thompson, Daniel Tobin  
+Chad&nbsp;Bennet, Bruce&nbsp;Bond, Douglas&nbsp;G.&nbsp;Campbell, Michael&nbsp;Casey, Cyrus&nbsp;Cassells, Brian&nbsp;Clements, Barbara&nbsp;Crooker, Carolina&nbsp;Ebeid, Shamala&nbsp;Gallagher, Sonia&nbsp;Greenfield, Danielle&nbsp;Hanson, Kurt&nbsp;Heinzelman, Michael&nbsp;Helsem, Brenda&nbsp;Hillman, Judy&nbsp;Jensen, Sarah&nbsp;Katharina&nbsp;Kayss, Len&nbsp;Krisak, Errol&nbsp;Miller, Mark&nbsp;Mullee, Benjamin&nbsp;Myers, Mary&nbsp;Parham, Simon&nbsp;Perchik, Jeffrey&nbsp;Pethybridge, Dean&nbsp;Rader, Marzelle&nbsp;Robertson, Dale&nbsp;Smith, Bruce&nbsp;Snider, Meg&nbsp;Thompson, Daniel&nbsp;Tobin  
 
 ## Reviews:
-
 Alan Berecka, *Remembering the Body*  
 Paul Christensen, *The Human Condition*  
 William Bedford Clark, *Blue Norther and Other Poems*  
@@ -22,9 +20,10 @@ Dean Rader, *Works & Days*
 Scott Wiggerman, *Presence*  
 
 ## Art:
-
 Marilyn Flanegan  
 
-## Cover Art:
+## Guest Editor:
+Joe Ahearn  
 
-Grace During the Storm by Marilyn Flanegan  
+## Editorial Reviewer:
+Sarah Bishop

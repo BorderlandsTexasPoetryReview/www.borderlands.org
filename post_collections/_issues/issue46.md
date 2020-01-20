@@ -3,7 +3,7 @@ layout: issue
 category: issue
 title: Issue 46
 issue_number: 46
-image_caption: 
+image_caption: <i>Owl Nighter</i> by Stephanie Rubiano
 ---
 
 ## Poetry:
@@ -22,7 +22,7 @@ Wendy Videlock, *How You Might Approach a Foal*
 
 ## Cover Art:
 
-*Owl Nighter* by Stephanie Rubiano
+
 
 Art by Stephanie Rubiano &copy; 2017  
 

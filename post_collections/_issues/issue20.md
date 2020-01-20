@@ -3,7 +3,7 @@ layout: issue
 category: issue
 title: Issue 20
 issue_number: 20
-image_caption: 
+image_caption: <i>Journey 211-06</i> by Young June Lew
 ---
 
 ## Essay:
@@ -16,9 +16,10 @@ Priscilla Atkins, Susan Austin, Jeffery Bahr, Clare Banks, Claudia Burbank, Beve
 Marcela Sulak, Gail Taylor, Larry D. Thomas, G. C. Waldrep, Andrea Watson, Thomas Whitbread, Nathan Whiting, Don Winter, Abe Louise Young  
 
 ## Art:
-
 Young June Lew  
 
 ## Photography:
+Jonathan Chick  
 
-Jonathan Chick
+## Editors:
+k. bradford, Amy Schrader  

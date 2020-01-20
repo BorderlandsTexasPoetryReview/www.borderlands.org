@@ -17,15 +17,26 @@ layout: blank
 
 	<div class="info_column-1">
 	  	
-	  	<article><center><img style="margin-bottom:5px;" src="/assets/images/issue{{page.issue_number}}/B_{{ page.issue_number }}.jpg" width=300 ></center>
-	  	<article><font size="1">{{ page.image_caption }}</font><hr class="mobile-menu"></article>
+	<article>
+	  		<center>
+	<table class="image">
+	  		<tr><td>
+	  			<img style="margin-bottom:5px;" src="/assets/images/issue{{page.issue_number}}/B_{{ page.issue_number }}.jpg" width=300 >
+	  </td></tr>
+	  <tr><td class="caption">
+	  		<font size="1">{{ page.image_caption }}</font><hr class="mobile-menu">
+	  </td></tr>
+	</table>	  		</center>
 
-	  	<article style="margin-top:20px;" ><center>
-	  		<a style="border-bottom: 0px;" href="{{page.previous.url}}">&nbsp;&nbsp;<&nbsp;&nbsp;</a>
-	  		Issue {{ page.issue_number }}
-	  		<a style="border-bottom: 0px;" href="{{page.next.url}}">&nbsp;&nbsp;>&nbsp;&nbsp;</a>
+	</article>
+
+	  	<article style="margin-top:20px;" >
+	  		<center>
+	  			<a style="border-bottom: 0px;" href="{{page.previous.url}}">&nbsp;&nbsp;<&nbsp;&nbsp;</a>
+	  			Issue {{ page.issue_number }}
+	  			<a style="border-bottom: 0px;" href="{{page.next.url}}">&nbsp;&nbsp;>&nbsp;&nbsp;</a>
 	  		</center>
-	  		</article>
+	  	</article>
 	</div>
 
 	<div class="info_column-2">

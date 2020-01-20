@@ -3,7 +3,7 @@ layout: issue
 category: issue
 title: Issue 24
 issue_number: 24
-image_caption: 
+image_caption: <i>Hypatia</i> by Katy Nail  
 ---
 
 ## Poetry:
@@ -18,10 +18,8 @@ David Dooley, *The Zen Garden*
 Steve Gherke, *The Pyramids of Malpighi*  
 Spencer Reece, *The Clerk's Tale*  
 
-## Cover Art:
-
-*Hypatia* by Katy Nail  
-
 ## Art:
-
 Frances Nail and Katy Nail  
+
+## Editor:
+Philip Pardi  

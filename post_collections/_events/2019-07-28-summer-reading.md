@@ -16,6 +16,6 @@ Poetry readings by Alex Lemon (Issue 50 Featured Poet) and Saúl Hernández.
 
 Liz Garton Scanlon will speak on the history of _Borderlands_.   
 
-Frances Thompson (UMLAUF Sculpture Garden & Museum) and Ruby Surls (James Surls' daughter) will discuss James Surls' current exhibit, _James Surls: With Out, With In_.  
+Frances Thompson (UMLAUF Sculpture Garden & Museum) and Ruby Surls (James Surls' daughter) will discuss James Surls' work and current exhibit, _James Surls: With Out, With In_.  
 
 Terry Sherrell (OneTouchPoint) will discuss her experiences designing and printing _Borderlands_.  

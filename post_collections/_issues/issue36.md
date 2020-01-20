@@ -3,7 +3,7 @@ layout: issue
 category: issue
 title: Issue 36
 issue_number: 36
-image_caption: 
+image_caption: <i>Bombs Away (1948 Hudson)</i> by Gwendolyn  
 ---
 
 ## Poetry:
@@ -18,9 +18,10 @@ Kate Northrop, *Clean*
 Shin Yu Pai, *Adamantine*   
 
 ## Art:
+Gwendolyn  
 
-Gwendolyn
+## Guest Editor:
+Judy Jensen  
 
-## Cover Art:
-
-*Bombs Away* (1948 Hudson) by Gwendolyn
+## Managing Editor:
+Deborah A. Akers

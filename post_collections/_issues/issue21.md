@@ -3,7 +3,7 @@ layout: issue
 category: issue
 title: Issue 21
 issue_number: 21
-image_caption: 
+image_caption: <i>Atavistic Island</i> by Barbara Atwell
 ---
 
 ## Essay:
@@ -17,11 +17,11 @@ Priscilla Atkins, Wendy Barker, David Bart, Beverley Bie Brahic, Susan H. Case, 
 ## Review:
 Major Jackson, *Leaving Saturn*, 2002
 
-## Cover Art:
-Barbara Atwell
-
 ## Artwork:
 Barbara Atwell  
 
 ## Photographs:
 Rama Tiru  
+
+## Editors:
+k. bradford, Amy Schrader  

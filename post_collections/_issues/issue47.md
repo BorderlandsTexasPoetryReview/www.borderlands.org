@@ -3,7 +3,7 @@ layout: issue
 category: issue
 title: Issue 47
 issue_number: 47
-image_caption: 
+image_caption: <i>Night Laundry Study</i> by Owen Max Dodgen
 ---
 
 ## Poetry:

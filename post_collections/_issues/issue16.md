@@ -3,7 +3,7 @@ layout: issue
 category: issue
 title: Issue 16
 issue_number: 16
-image_caption: 
+image_caption: <i>Rosary</i> by George Ramirez
 ---
 
 ## Poetry:
@@ -16,5 +16,7 @@ Jared Carter, *Les Barricades Mysterieuses*: Thirty-Two Villanelles, 1999
 Chip Dameron, Hook & Bloodline, 2000  
 
 ## Artwork and Photography:
-
 George Ramirez, Melissa Slepekis  
+
+## Editors:
+Erin&nbsp;Stanley, Laura&nbsp;Van&nbsp;Prooyen-Clyne  

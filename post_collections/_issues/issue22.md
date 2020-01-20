@@ -3,7 +3,7 @@ layout: issue
 category: issue
 title: Issue 22
 issue_number: 22
-image_caption: 
+image_caption: <i>Andean Meal</i> by Teresa Taylor
 ---
 
 ## Poetry:
@@ -14,8 +14,8 @@ Justen Ahren, Ahimsa Timoteo Bodhrán, Daniel Bourne, Susan Briante, E. G. Burro
 Bruce Snider, *The Year We Studied Women*, 2003  
 Beth Ann Fennelly, *Open House*, 2002  
 
-## Cover Photograph:
-Teresa Taylor  
-
 ## Photographs:
 Teresa Taylor and Eduardo Vera  
+
+## Editors:
+k. bradford, Philip Pardi, Amy Schrader  

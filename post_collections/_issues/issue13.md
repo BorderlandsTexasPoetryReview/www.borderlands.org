@@ -3,7 +3,7 @@ layout: issue
 category: issue
 title: Issue 13
 issue_number: 13
-image_caption: 
+image_caption: <i>Utopia</i> by Luis Gutiérrez
 ---
 
 ## Poetry:
@@ -14,11 +14,13 @@ V. T. Abercrombie, Susan J. Allspaw, Oliver de la Paz, Nancy Depper, Sonya S. Fe
 Mario Susko, *Versus Exsul*, 1998  
 
 ## Interview:
-
-John Rodden with translator John Nathan on Kenzaburō Ōe, the 1994 Nobel Prize winner
+John Rodden with translator John Nathan on Kenzaburō Ōe, the 1994 Nobel Prize winner  
 
 ## Artwork:
 Luis Gutierrez  
 
 ## Photographs:
 Mark Goodman  
+
+## Editors:  
+Erin&nbsp;Stanley, Laura&nbsp;Van&nbsp;Prooyen-Clyne, Phil&nbsp;West  

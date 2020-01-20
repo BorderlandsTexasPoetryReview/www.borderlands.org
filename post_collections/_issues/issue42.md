@@ -3,7 +3,7 @@ layout: issue
 category: issue
 title: Issue 42
 issue_number: 42
-image_caption: 
+image_caption: <i>Thrill Seekers</i> by Rebecca Dietz
 ---
 
 ## Poetry:
@@ -24,12 +24,7 @@ Sarah Chavez, *All Day Talking*
 Celeste Guzmán Mendoza, *Beneath the Halo*  
 
 ## Photography
-
 Rebecca Dietz  
-
-## Cover Photograph:
-
-*Thrill Seekers* by Rebecca Dietz  
 
 ## Editor:
 Ryan Sharp  

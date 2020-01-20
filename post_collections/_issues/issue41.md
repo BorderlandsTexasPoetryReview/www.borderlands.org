@@ -3,7 +3,7 @@ layout: issue
 category: issue
 title: Issue 41
 issue_number: 41
-image_caption: 
+image_caption: <i>Radha</i> by Noah Baumwoll
 ---
 
 ## Poetry:
@@ -20,12 +20,7 @@ Gretchen Primak, *Kind*
 Sasha West, *Failure* and *I Bury the Body*  
 
 ## Art:
-
 Noah Baumwoll  
-
-## Cover Art:
-
-Radha by Noah Baumwoll  
 
 ## Editor:
 Ryan Sharp  

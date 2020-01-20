@@ -3,7 +3,7 @@ layout: issue
 category: issue
 title: Issue 43
 issue_number: 43
-image_caption: 
+image_caption: <i>West Texas Truck</i> by Sabine Zimmer
 ---
 
 ## Poetry:
@@ -22,9 +22,16 @@ Jonathan Moody, *Olympic Butter Gold*
 Ire’ne Lara Silva, *Blood Sugar Canto*  
 
 ## Artwork:
-
 Sabine Zimmer  
 
-## Cover Art:
+## Editor:
+Ryan Sharp  
 
-*West Texas Truck* by Sabine Zimmer  
+## Assistant Editors:
+James Gregorski, Daniel Priest
+
+## Submissions Reader:
+Rebecca Macmillan  
+
+## Book Review Editor:
+Lauren Gantz  
